@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<?
+<?php
 $gaji = 1000000;
 $pajak = 0.1;
 $thp = $gaji - ($gaji*$pajak);

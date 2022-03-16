@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<?
+<?php
 /* Komentar tidak akan tercetak di layar
  Komentar baris kedua
 */
