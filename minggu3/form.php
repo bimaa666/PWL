@@ -1,7 +1,7 @@
 <html>
 <head><title>Form</title></head>
 	<body>
-		<form action="" method="post" 
+		<form action="prosform.php" method="post" 
 name="input">
 <style>
 table {
